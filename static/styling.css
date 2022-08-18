@@ -1,0 +1,25 @@
+html, body {
+    background-color: rgb(58, 86, 97);
+    color:rgb(217, 217, 217);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 0.5%;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    margin-right: 10%;
+}
+
+a {
+    color:rgb(136, 233, 240);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(136, 233, 240);
+    font-weight: 750;
+    text-decoration: none;
+}
